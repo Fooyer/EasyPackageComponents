@@ -1,4 +1,4 @@
-# Easy Prackage Components (EPC)
+# Easy Package Components (EPC)
 
 ## Who we are?
 
