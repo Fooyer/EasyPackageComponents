@@ -10,7 +10,7 @@ We are a group building a compenent pack.
 The project objective is build a components pack easy to use in your project.
 
 #
-## What is the components We do?
+## Which are the components that we do?
 
 - Notification Massages;
 - Loading Bar;
