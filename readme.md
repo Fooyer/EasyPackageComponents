@@ -2,7 +2,7 @@
 
 ## Who we are?
 
-We are a group of peoples building a compenent pack.
+We are a group building a compenent pack.
 
 #
 ## What is the project objective?
