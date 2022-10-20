@@ -5,3 +5,7 @@
 function Sucess() {
     alert("Aoba");
 }
+
+function Show() {
+    alert("Hello!!")
+}
