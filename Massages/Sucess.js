@@ -2,8 +2,6 @@
 
 // mensagem sucesso
 
-function Sucess(){
-    
+function Sucess() {
     alert("Aoba");
-
 }
