@@ -12,6 +12,6 @@ The project objective is build a components pack easy to use in your project.
 #
 ## Which are the components that we do?
 
-- Notification Massages;
+- Notification Messages;
 - Loading Bar;
 - Loading Pages;
