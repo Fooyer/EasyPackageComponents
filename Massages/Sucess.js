@@ -2,7 +2,14 @@
 
 // mensagem sucesso
 
-function Sucess() {
+import {ConvertSeconds} from "../Utilities/timeConversion";
+
+function Sucess(time) {
+
+    if (time=null){
+        time = 5;
+    }
+    time = ConvertSeconds(time);
 
     var divNova = document.createElement("div");
     
@@ -16,6 +23,6 @@ function Sucess() {
     setInterval(function() {
         var element = document.getElementById("Sucess");
         element.remove();
-    }, 5000)
+    }, time)
     
 }
