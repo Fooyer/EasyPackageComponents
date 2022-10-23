@@ -1,6 +1,6 @@
 // This code is a Sucess Massages
 
-// mensagem sucesso
+// Sucess Message
 
 import {ConvertSeconds} from "../Utilities/timeConversion";
 
