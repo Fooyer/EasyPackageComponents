@@ -1,15 +1,15 @@
 // This code is a Sucess Massages
 
-// Sucess Message
-
 import {ConvertSeconds} from "../Utilities/timeConversion";
+
+// Sucess Message
 
 function Sucess(time) {
 
-    if (time=null){
+    if (time==null){
         time = 5;
     }
-    time = ConvertSeconds(time);
+    time2 = ConvertSeconds(time);
 
     var divNova = document.createElement("div");
     
@@ -23,6 +23,12 @@ function Sucess(time) {
     setInterval(function() {
         var element = document.getElementById("Sucess");
         element.remove();
-    }, time)
+    }, time2)
     
+}
+
+function Show(){
+
+    alert('Aooba');
+
 }
