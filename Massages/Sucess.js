@@ -9,7 +9,7 @@ function Sucess(time) {
     if (time==null){
         time = 5;
     }
-    time2 = ConvertSeconds(time);
+    time = ConvertSeconds(time);
 
     var divNova = document.createElement("div");
     
@@ -23,7 +23,7 @@ function Sucess(time) {
     setInterval(function() {
         var element = document.getElementById("Sucess");
         element.remove();
-    }, time2)
+    }, time)
     
 }
 
